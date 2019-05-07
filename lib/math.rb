@@ -1,21 +1,20 @@
 def puts  1 + 1 
 end
 
-def subtraction(num1, num2)
+def puts 9/3 
 end
 
-def division(num1, num2)
+def  puts 8/4 
 end
 
-def multiplication(num1, num2)
+def puts 4 * 5
 end
 
-def modulo(num1, num2)
+def puts 6 % 8
 end
 
-def square_root(num)
+def puts math.sqrt(71)
 end
 
-def order_of_operation(num1, num2, num3, num4)
-  #Hint:  __ + (( __ * __ ) / __ )
+def puts (87 + 45/12 * 7 -4 =) 
 end
